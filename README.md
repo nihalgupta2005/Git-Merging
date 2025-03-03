@@ -1,3 +1,3 @@
 # Merging in Github
 
-Merging in Github
+merging in Github
